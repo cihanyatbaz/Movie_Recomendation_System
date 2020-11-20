@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="shadow p-3 mb-5 bg-white rounded">
+  <h1 style="color:rgb(131,16,16)">Welcome to MOVIE RUNNER!</h1>
+  <h3 style="color:rgb(86,77,77)">Enter the username to get personalized recommendations.</h3>
+</div>
+
+  <form action="{{url_for('recommend')}}">
+    <input type="text" name="movie" class="form-control" placeholder="username">
+    <br>
+    <input style="background-color:rgb(229, 9, 20)" type="submit" class="btn btn-info" value="Enter" >
+  </form>
+{% endblock %}
