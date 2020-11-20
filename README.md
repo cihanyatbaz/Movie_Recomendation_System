@@ -2,7 +2,7 @@
 
 
 ### Collaborative Filtering Based Movie Recommendation System
-### by Ronahi Ay, Meliha Gizem Çelik, Mehmet Furkan Kuşçu, Cihan Yatbaz
+
 ### 20/11/2020
 
 
