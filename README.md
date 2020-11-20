@@ -1,7 +1,5 @@
-# Movie_Recomendation_System
-
-
 # “Movie Runner”
+
 
 ### Collaborative Filtering Based Movie Recommendation System
 ### by Ronahi Ay, Meliha Gizem Çelik, Mehmet Furkan Kuşçu, Cihan Yatbaz
