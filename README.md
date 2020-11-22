@@ -13,5 +13,7 @@ Movie Runner is a model that recommends 10 movies to be liked by each person, ba
 A website was created for the model with the help of Python's Flask framework. When the name of a user in the dataset is entered on this website, 10 movies will be recommended to that user.
 
 
+In the picture below, you can see movie recommendations for 2 different users on the website. Gizem and Furkan are my teammates. We included their name and the movies they rated in our data set. And then we were able to get predictions from the model for them as well.
 
+![image](movie_recommendations.PNG)
 
